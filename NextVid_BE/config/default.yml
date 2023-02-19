@@ -1,0 +1,10 @@
+server: 
+  port: 3000
+
+db: 
+  type: 'postgres'
+  port: 5432
+  database: 'tiktok_clone'
+
+jwt: 
+  expiresIn: 7200
